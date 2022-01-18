@@ -11,5 +11,5 @@ function largest(arr) {
   return max; 
 } 
 
-let arr = [12, 45, 3, 96, 21, 86];
+let arr = [6, 10, 5, 37, 22, 27];
 console.log("Largest in given array is " + largest(arr));

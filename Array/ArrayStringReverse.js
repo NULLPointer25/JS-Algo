@@ -7,4 +7,4 @@ function reverse(string){
     return result.join(' ');
  }
  
- console.log(reverse('Hello welcome to the World'));
+ console.log(reverse('Hello Peter How Are You'));
